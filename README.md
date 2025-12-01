@@ -56,4 +56,4 @@ streamlit run app_cbir.py
 
 # Auteur
 
-Projet réalisé par BOMO MEKA JOSPIN MARIEL, dans le cadre du cours 420-1AB-TT à l’Institut Teccart.
+Projet réalisé par Kaemly Morisseau, dans le cadre du cours 420-1AB-TT à l’Institut Teccart.
